@@ -26,3 +26,6 @@ workspace.xml
 /dist/
 /nbdist/
 /.nb-gradle/
+node_modules
+/dist
+application.yml
